@@ -2,13 +2,13 @@ Author: Alexey Nikonorov <br />
 
 # Это репозиторий по проектам онлайн-школы Яндекс.Практикум по специальности "Data Scientist" от 2020 года.
 
-Здесь я выполнял задачи по анализу данных и машинному обучению.
+Здесь я выполнял задачи по анализу данных и машинному обучению с помощью SQL и Python.
 
 Список моих проектов ниже:
 
-| Project name | Description | Libraries used | 
+| Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [1_Analyzing_borrowers_risk_of_defaulting](Project_1_Analyzing_borrowers_risk_of_defaulting) | Finding out if a customer’s marital status and number of children has an impact on whether they will default on a loan. Report will be considered when building a credit scoring of a potential customer. | *Pandas*, *Nltk* |
+| [1_Analyzing_borrowers_risk_of_defaulting](Project_1_Analyzing_borrowers_risk_of_defaulting) | Анализ влияния семейного положения и количество детей клиента банка на выплату кредита. Отчет будет учтен при построении кредитного рейтинга потенциального клиента. | *Pandas*, *Nltk* |
 | [2_Research_on_apartment_sales_ads](Project_2_Research_on_apartment_sales_ads) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraudulent activity. | *Pandas*, *Matplotlib*, *Numpy* |
 | [3_Research_profitable_calling_plan](Project_3_Research_profitable_calling_plan) | Identifying which of the calling plans is more profitable in order to adjust the advertising budget. | *Pandas*, *Matplotlib*, *Numpy*, *Math*, *Scipy* |
 | [4_Research_of_the_game_success](Project_4_Research_of_the_game_success) | Finding patterns that determine whether a videogame succeeds or not. | *Pandas*, *Matplotlib*, *Numpy*, *Math*, *Scipy* |
