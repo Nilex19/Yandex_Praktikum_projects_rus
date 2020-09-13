@@ -1,10 +1,10 @@
 Author: Alexey Nikonorov <br />
 
-# This is repo with "Data Scientist" course from "Practicum by Yandex", 2020.
+# Это репозиторий по проектам онлайн-школы Яндекс.Практикум по специальности "Data Scientist" от 2020 года.
 
-I did data analysis and machine learning tasks here.
+Здесь я выполнял задачи по анализу данных и машинному обучению.
 
-My projects below:
+Список моих проектов ниже:
 
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
