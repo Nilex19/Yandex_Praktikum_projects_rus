@@ -11,4 +11,4 @@
 Pandas, Matplotlib, Numpy, Math, Seaborn, Sklearn, Tqdm, Spacy, Re, Nltk, Lightgbm, Pytorch
 
 *Выводы:*  
-- Наша лучшая оценка - f1_score = 0.86 (test) с использованием модели BERT.
+- Лучшая оценка - f1_score = 0.86 (test) с использованием модели BERT.
