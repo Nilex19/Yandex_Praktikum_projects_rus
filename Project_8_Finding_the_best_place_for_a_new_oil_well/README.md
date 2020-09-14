@@ -1,3 +1,15 @@
-# Finding the best place for a new oil well
+# Поиск лучшего места для бурения новой скважины
 
-The machine learning model building that will help to pick the oil region with the highest profit margin with analysis potential profits and risks using the Bootstrap technique.
+*Статус проекта:*  
+Проект завершен.
+
+*Описание и цели:*  
+Построение модели машинного обучения, которая:  
+- Поможет выбрать нефтяной регион с максимальной рентабельностью.
+- Проанализировать потенциальную прибыль и риски с использованием методики Bootstrap.
+
+*Инструменты:*  
+Pandas, Numpy, Sklearn
+
+*Выводы:*  
+- Лучшая средняя прибыль во втором регионе - 5.37 млн. долларов и минимальный риск потерь = 0.9 %.
