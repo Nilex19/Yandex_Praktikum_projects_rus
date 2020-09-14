@@ -8,7 +8,7 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [1_Analyzing_borrowers_risk_of_defaulting](Project_1_Analyzing_borrowers_risk_of_defaulting) | Анализ влияния семейного положения и количество детей клиента банка на выплату кредита. Отчет будет учтен при построении кредитного рейтинга потенциального клиента. | *Pandas*, *Nltk* |
+| [1_Analyzing_borrowers_risk_of_defaulting](Project_1_Analyzing_borrowers_risk_of_defaulting) | Анализ влияния семейного положения и количества детей клиента банка на выплату кредита. Отчет будет учтен при построении кредитного рейтинга потенциального клиента. | *Pandas*, *Nltk* |
 | [2_Research_on_apartment_sales_ads](Project_2_Research_on_apartment_sales_ads) | Определение рыночной стоимости недвижимости в Санкт-Петербурге, и определение параметров, позволяющих создать автоматизированную систему, способную обнаруживать аномалии и мошенническую деятельность. | *Pandas*, *Matplotlib*, *Numpy* |
 | [3_Research_profitable_calling_plan](Project_3_Research_profitable_calling_plan) | Определение выгодного тарифного плана для корректировки рекламного бюджета. | *Pandas*, *Matplotlib*, *Numpy*, *Math*, *Scipy* |
 | [4_Research_of_the_game_success](Project_4_Research_of_the_game_success) | Поиск закономерностей, определяющих успешность видеоигры. | *Pandas*, *Matplotlib*, *Numpy*, *Math*, *Scipy* |
