@@ -1,3 +1,14 @@
-# Prediction the amount of gold recovered from gold ore
+# Предсказание количества золота, извлеченного из золотой руды
 
-Preparation of the prototype of the machine learning model for Zyfra (heavy industry solutions), which should predict the amount of gold recovered from gold ore.
+*Статус проекта:*  
+Проект завершен.
+
+*Описание и цели:*  
+Разработка модели машинного обучения для Zyfra (решения для тяжелой промышленности), которая должна прогнозировать количество золота, извлеченного из золотосодержащей руды, чтобы:
+- Оптимизировать производство и исключить нерентабельные параметры.
+
+*Инструменты:*  
+Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Scipy
+
+*Выводы:*  
+- Лучшая оценка - full_smape = 8.72 с моделью RandomForestRegressor.
