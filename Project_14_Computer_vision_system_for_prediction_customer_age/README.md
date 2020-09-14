@@ -1,16 +1,16 @@
-#  Computer vision system for prediction customer age
+#  Система компьютерного зрения для прогнозирования возраста покупателей
 
-*Project status:*  
-The project's complete.
+*Статус проекта:*  
+Проект завершен.
 
-*Description and purposes:*  
-Computer vision system for processing customer photos, which will help determine the age of customers in order to:
-- Analyze purchases and offer products that may interest buyers in particular age groups
-- Monitor clerks selling alcohol
+*Описание и цели:*  
+Система компьютерного зрения для обработки фотографий клиентов, которая поможет определить возраст, чтобы:
+- Анализировать покупки и предлагать товары, которые могут заинтересовать покупателей в определенных возрастных группах.
+- Контролировать продавцов алкоголя.
 
-*Tools:*  
+*Инструменты:*  
 Pandas, Matplotlib, Numpy, PIL, Keras, Tensorflow
 
-*Conclusions:*  
-We have dataset with 7591 images with people ages from 1 to 100. Some photos colored, some black and white. Somewhere people are depicted the front face, somewhere the side view.  
-We have best mae = 6.7397 with 20 epoches for ResNet50.
+*Выводы:*  
+- У нас есть набор данных с 7591 изображением людей в возрасте от 1 до 100 лет. Некоторые фотографии цветные, некоторые черно-белые. Где-то люди изображены лицевой стороной, где-то - видом сбоку. 
+- Наша лучшая mae = 6.7397 с 20-ю эпохами для ResNet50.
