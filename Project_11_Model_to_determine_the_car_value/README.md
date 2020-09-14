@@ -1,3 +1,14 @@
-# Model to determine the car value 
+# Модель определения стоимости автомобиля
 
-Building of the model to determine the car value for used car sales service, to develop an app to attract new customers.
+*Статус проекта:*  
+Проект завершен.
+
+*Описание и цели:*  
+Построение модели для определения стоимости автомобиля для службы продажи подержанных автомобилей, чтобы:
+- В дальнейшем разработать приложение для привлечения новых клиентов.
+
+*Инструменты:*  
+Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Time, Lightgbm, Xgboost, Catboost
+
+*Выводы:*  
+- Лучшая оценка - RMSE = 1889.2 с моделью LightGBM.
