@@ -1,3 +1,14 @@
-# Prediction of taxi orders for the next hour
+# Прогнозирование количества заказов такси в следующий час
 
-Prediction the amount of taxi orders for the next hour at airports for attraction more drivers during peak hours.
+*Статус проекта:*  
+Проект завершен.
+
+*Описание и цели:*  
+ 	Предсказать количество заказов такси на следующий час в аэропорту, чтобы:
+- Привлечь большее количество водителей в часы пик.
+
+*Инструменты:*  
+Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Time, Lightgbm, Xgboost, Catboost, Statsmodels
+
+*Выводы:*  
+- Лучшая оценка - RMSE = 45.44 с моделью LGBMRegressor.
